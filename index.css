@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+
+nav ul li {
+    display: flex;
+    margin-left: 12px; 
+}
+
+.carouselExampleCaptions {
+    height: 200px;
+}
+
+h1.h1 {
+    margin-bottom: 40px;
+}
+
+.card-body {
+    background-size: cover;
+    height: 250px;
+    background-image: url("./img/wallpaperflare.com_wallpaper\ \(1\).jpg");
+    color: aliceblue;
+}
